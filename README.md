@@ -1,16 +1,50 @@
 # 🛡️ Sentinel-Core by 0mega Code
-**Protocol 0mega-One Initiated**
+**"Protocol 0mega-One: Activated"**
 
-## 🕵️ Mission Overview
-This project focuses on the detection and analysis of **flash-infiltration bots** within gaming platforms like Roblox. We identify patterns used by automated accounts to bypass chat filters and promote unauthorized third-party services.
-
-## 🚀 Features
-* **Link Bypass Detection:** Identifying hidden characters used to show URLs.
-* **Behavior Analysis:** Monitoring the "Enter-Spam-Exit" cycle of generic accounts.
-* **Pattern Recognition:** Scanning for specific keywords used in scam operations.
-
-## ⚖️ Legal
-This research is conducted under the **MIT License**. All data is collected for educational and security improvement purposes only.
+The ultimate hybrid detection system designed to identify and neutralize automated bot accounts. Unlike basic filters, **Sentinel-Core** analyzes both chat patterns and robotic movement behaviors across multiple programming environments.
 
 ---
-*Developed by 0mega-One | 0mega Code Organization*
+
+## 🕵️ Mission Overview
+The rise of flash-infiltration bots requires a more advanced approach. This project focuses on:
+* **Pattern Recognition:** Identifying suspicious link-bypass techniques.
+* **Behavioral Analysis:** Detecting non-human movement (Static spamming, Anti-AFK, and Teleports).
+* **Cross-Platform Defense:** Providing the same high-level security for any game engine.
+
+---
+
+## 📦 Multi-Language Support (BotSearcher)
+Each file below contains the official **BotSearcher** engine adapted for its specific language.
+
+| Language | File Name | Main Use Case |
+| :--- | :--- | :--- |
+| 🐍 **Python** | `BotSearcher.py` | Research, Data Analysis & Servers |
+| 🌙 **Lua** | `BotSearcher.lua` | **Roblox** (ServerScriptService) |
+| ⚙️ **C++** | `BotSearcher.cpp` | Unreal Engine & High-Performance Core |
+| 🎮 **C#** | `BotSearcher.cs` | **Unity** & PC Standalone Games |
+| ☕ **Java** | `BotSearcher.java` | **Minecraft** & Enterprise Backends |
+
+---
+
+## 🚀 Key Features
+1. **Link Shield:** Detects `.com`, `.gg`, and camouflaged text like `v e n t a` or `ro-bux`.
+2. **Movement Sentinel:** Flags accounts that stay perfectly still while spamming or move in robotic patterns.
+3. **Suspicion Scoring:** A 3-point system that reduces "false positives," ensuring real players are not kicked by mistake.
+
+---
+
+## 📞 Support & Custom Requests
+If a script doesn't work (**Si no anda**), if you find a bug, or if you need **0mega Code** in a specific language that isn't listed here (like JavaScript, Rust, or Go), contact the lead developer:
+
+📧 **Email:** [Omega.One.Official@outlook.es](mailto:Omega.One.Official@outlook.es)
+
+> [!IMPORTANT]
+> **Credits are mandatory.** If you use this technology in your game or project, you must provide proper credits to **0mega-One / 0mega Code**.
+
+---
+
+## ⚖️ License
+This project is licensed under the **MIT License** - see the LICENSE file for details.
+
+*"Securing the metaverse, one line of code at a time."*
+**Developed by 0mega-One | 0mega Code Organization**
