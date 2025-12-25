@@ -45,9 +45,11 @@ Does your game or platform have a massive bot problem? **0mega Code** offers pro
 ---
 
 ## 📞 Support & Custom Requests
-Si el código no funciona (**Si no anda**), encuentras un error o necesitas la tecnología de **0mega Code** en un lenguaje específico que no esté en la lista, contacta directamente con el líder de desarrollo:
+If the code is not working, you find a bug, or you need **0mega Code** technology in a specific language not listed here, please contact the lead developer:
 
 📧 **Email:** [Omega.One.Official@outlook.es](mailto:Omega.One.Official@outlook.es)
+
+*(Si el código no funciona o necesitas un lenguaje específico, envía un correo a la dirección de arriba).*
 
 > [!IMPORTANT]
 > **Credits are mandatory.** If you use this technology in your game or project, you must provide proper credits to **0mega-One / 0mega Code**.
