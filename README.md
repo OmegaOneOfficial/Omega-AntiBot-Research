@@ -33,8 +33,19 @@ Each file below contains the official **BotSearcher** engine adapted for its spe
 
 ---
 
+## 💼 Enterprise & Premium Services
+Does your game or platform have a massive bot problem? **0mega Code** offers professional consulting and custom implementation for high-stakes environments.
+
+* **Custom Integration ($50 - $100):** We adapt Sentinel-Core specifically for your game's unique mechanics and physics.
+* **Advanced Anti-Cheat Development:** Private scripts and obfuscated security layers not available in this public repository.
+* **Server Security Audit:** We analyze your server's infrastructure to find vulnerabilities before hackers do.
+
+*For business inquiries, please state **"BUSINESS"** in your email subject.*
+
+---
+
 ## 📞 Support & Custom Requests
-If a script doesn't work (**Si no anda**), if you find a bug, or if you need **0mega Code** in a specific language that isn't listed here (like JavaScript, Rust, or Go), contact the lead developer:
+Si el código no funciona (**Si no anda**), encuentras un error o necesitas la tecnología de **0mega Code** en un lenguaje específico que no esté en la lista, contacta directamente con el líder de desarrollo:
 
 📧 **Email:** [Omega.One.Official@outlook.es](mailto:Omega.One.Official@outlook.es)
 
